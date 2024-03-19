@@ -75,13 +75,11 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/swasthik27/Weather-App) or just clone the project using this command. 
 
 
 ```
-Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
 ```
 
 + Open terminal on your workspace with
@@ -140,9 +138,9 @@ npm run dev
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://www.linkedin.com/in/swasthik-shetty-2750b8272/)](https://www.linkedin.com/in/m-sehrawat/)
+![linkedin](https://www.linkedin.com/in/swasthik-shetty-2750b8272/)
 
-© 2022 Mohit Sehrawat
+© 2023 Swasthik Shetty
 
 
 
